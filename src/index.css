@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+	padding:30px;
+}
+
+h2{
+    background-color: grey;
+    color: white;
+    padding: 20px;
+}
+
+h3{
+    border-bottom: 1px groove;
+    padding-bottom: 10px;
+}
+
+Button{
+
+	padding:13px;
+	margin-left:35px;
+	margin-bottom:30px;
+	color:white;
+	width:15%;
+	border:none;
+}
+
+#nameContainer{
+    padding-bottom: 15px;
+    border-bottom: 4px groove;
+}
+
+#addressContainer{
+    padding-bottom: 15px;
+    border-bottom: 4px groove;
+}
+
+#hobbiesContainer{
+    padding-bottom: 15px;
+    border-bottom: 4px groove;
+}
+
+#textbox{
+
+    margin-top: 30px;
+}
